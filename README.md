@@ -13,4 +13,5 @@
 ## 4 семестр
 1. [Лабораторная работа 1](https://replit.com/@MariiaVolnykh/prog4lab1)
 2. [Лабораторная работа 2](https://replit.com/@MariiaVolnykh/prog4lab2)
+3. [Лабораторная работа 3](https://replit.com/@MariiaVolnykh/prog4lab3)
 
